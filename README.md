@@ -1,7 +1,7 @@
 ### Hi I'm Romulo Oliveira 👋
-<div>
+<div style=''>
   <a href="https://github.com/romulogno">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=romulogno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" style="border: 3px solid yellow;" src="https://github-readme-stats.vercel.app/api?username=romulogno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogno&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
